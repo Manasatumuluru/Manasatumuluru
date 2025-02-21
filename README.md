@@ -31,4 +31,4 @@
 
 📩 [Email](mailto:lakshmimanasa.tumuluru@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/manasa-tumuluru/)  
-📂 [GitHub](https://github.com/Manasa-Tumuluru)  
+📂 [GitHub](https://github.com/Manasatumuluru/) 
