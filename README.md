@@ -2,9 +2,9 @@
 ### 👋 Hi, I'm Manasa Tumuluru!  
 🚀 **Software Engineer | Backend Development | Data-Driven Solutions**  
 
-🔹 **M.S. in Computer Science** – Pace University (GPA: 3.9/4)  
-🔹 **2+ years** of experience in **Python, SQL, and backend API development**  
-🔹 Skilled in **performance optimization, data processing & scalable systems**  
+🔹 M.S. in Computer Science – Pace University (GPA: 3.9/4)  
+🔹 2+ years of experience in Python, SQL, and backend API development  
+🔹 Skilled in performance optimization, data processing & scalable systems 
 
 ---
 
