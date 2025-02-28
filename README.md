@@ -1,5 +1,5 @@
 # Manasa-Tumuluru
-###  Hi, I'm Manasa Tumuluru!  
+###  Hi, I'm Manasa!  
  **Software Engineer | Backend Development | Data-Driven Solutions**  
 
  M.S. in Computer Science – Pace University (GPA: 3.9/4)  
@@ -16,11 +16,11 @@ Data Optimization | API Design | Agile Development
 
 ---
 
-### 📌 Featured Work  
+### Featured Work  
 
-✅ **Predictive Sleep Health Analysis** – ML-driven insights for sleep disorders  
-✅ **Mobile Marketplace App** – Scalable gaming marketplace with real-time tracking  
-✅ **Hotel Cancellation Prediction & Analysis** – Identified cancellation patterns and optimized booking strategies using data analysis  
+1.**Predictive Sleep Health Analysis** – ML-driven insights for sleep disorders  
+2. **Mobile Marketplace App** – Scalable gaming marketplace with real-time tracking  
+3. **Hotel Cancellation Prediction & Analysis** – Identified cancellation patterns and optimized booking strategies using data analysis  
 
 
 
@@ -28,6 +28,6 @@ Data Optimization | API Design | Agile Development
 
 ###  Contact Me  
 
-📩 [Email](mailto:lakshmimanasa.tumuluru@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/manasa-tumuluru/)  
-📂 [GitHub](https://github.com/Manasatumuluru/) 
+ [Email](mailto:lakshmimanasa.tumuluru@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/manasa-tumuluru/)  
+ [GitHub](https://github.com/Manasatumuluru/) 
