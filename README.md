@@ -9,7 +9,7 @@ Skilled in performance optimization, data processing & scalable systems
 ---
 
 ### Tech Stack & Skills  
- Python | SQL | Django | Spring Boot | C | HTML | CSS  
+ Python | SQL | Django | Node.js | C | HTML | CSS  
 PostgreSQL | MySQL | Docker | AWS (EC2, S3) | RESTful API  
 Data Optimization | API Design | Agile Development  
 
